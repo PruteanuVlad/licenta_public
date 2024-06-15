@@ -1,0 +1,10 @@
+../framework/XCVR/MKW38Z4/dbg_ram_capture.c:41:13:IN_TX_RAM_RANGE	0	static
+../framework/XCVR/MKW38Z4/dbg_ram_capture.c:76:13:IN_RX_RAM_RANGE	0	static
+../framework/XCVR/MKW38Z4/dbg_ram_capture.c:179:23:unpack_sequential_data	24	static
+../framework/XCVR/MKW38Z4/dbg_ram_capture.c:229:23:dbg_ram_set_trigger	20	static
+../framework/XCVR/MKW38Z4/dbg_ram_capture.c:109:16:dbg_ram_init	16	static
+../framework/XCVR/MKW38Z4/dbg_ram_capture.c:151:6:dbg_ram_release	0	static
+../framework/XCVR/MKW38Z4/dbg_ram_capture.c:308:16:dbg_ram_postproc_capture	8	static
+../framework/XCVR/MKW38Z4/dbg_ram_capture.c:337:16:dbg_ram_poll_capture_status	0	static
+../framework/XCVR/MKW38Z4/dbg_ram_capture.c:327:6:dbg_ram_wait_for_complete	8	static
+../framework/XCVR/MKW38Z4/dbg_ram_capture.c:377:16:dbg_ram_start_capture	8	static

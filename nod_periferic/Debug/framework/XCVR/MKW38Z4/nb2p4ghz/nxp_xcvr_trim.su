@@ -1,0 +1,13 @@
+../framework/XCVR/MKW38Z4/nb2p4ghz/nxp_xcvr_trim.c:363:18:calc_dcoc_dac_step	16	static
+../framework/XCVR/MKW38Z4/nb2p4ghz/nxp_xcvr_trim.c:999:13:dc_is_too_high	0	static
+../framework/XCVR/MKW38Z4/nb2p4ghz/nxp_xcvr_trim.c:642:16:calc_tza_step_recip	32	static
+../framework/XCVR/MKW38Z4/nb2p4ghz/nxp_xcvr_trim.c:396:6:dbg_ram_dc_capture	8	static
+../framework/XCVR/MKW38Z4/nb2p4ghz/nxp_xcvr_trim.c:430:9:rx_dc_sample_average	40	static
+../framework/XCVR/MKW38Z4/nb2p4ghz/nxp_xcvr_trim.c:462:9:rx_dc_est_average	32	static
+../framework/XCVR/MKW38Z4/nb2p4ghz/nxp_xcvr_trim.c:772:6:init_chan_state	0	static
+../framework/XCVR/MKW38Z4/nb2p4ghz/nxp_xcvr_trim.c:789:6:tza_chan_sweep	8	static
+../framework/XCVR/MKW38Z4/nb2p4ghz/nxp_xcvr_trim.c:814:6:bba_chan_sweep	0	static
+../framework/XCVR/MKW38Z4/nb2p4ghz/nxp_xcvr_trim.c:839:6:chan_step_sweep	8	static
+../framework/XCVR/MKW38Z4/nb2p4ghz/nxp_xcvr_trim.c:1008:6:force_rx_init_pulse	0	static
+../framework/XCVR/MKW38Z4/nb2p4ghz/nxp_xcvr_trim.c:509:9:rx_bba_dcoc_dac_trim_DCest	112	static
+../framework/XCVR/MKW38Z4/nb2p4ghz/nxp_xcvr_trim.c:856:6:DCOC_DAC_INIT_Cal	72	static

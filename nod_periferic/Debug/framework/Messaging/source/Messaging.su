@@ -1,0 +1,10 @@
+../framework/Messaging/source/Messaging.c:82:14:ListAddTailMsg	8	static
+../framework/Messaging/source/Messaging.c:103:14:ListAddHeadMsg	8	static
+../framework/Messaging/source/Messaging.c:124:14:ListAddPrevMsg	8	static
+../framework/Messaging/source/Messaging.c:148:7:ListRemoveHeadMsg	8	static
+../framework/Messaging/source/Messaging.c:171:7:ListGetHeadMsg	8	static
+../framework/Messaging/source/Messaging.c:206:7:ListGetNextMsg	8	static
+../framework/Messaging/source/Messaging.c:242:14:ListRemoveMsg	8	static
+../framework/Messaging/source/Messaging.c:249:7:MSG_Alloc	8	static
+../framework/Messaging/source/Messaging.c:262:10:MSG_GetSize	8	static
+../framework/Messaging/source/Messaging.c:276:13:MSG_Free	8	static

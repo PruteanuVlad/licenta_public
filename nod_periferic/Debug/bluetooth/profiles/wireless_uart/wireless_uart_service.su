@@ -1,0 +1,4 @@
+../bluetooth/profiles/wireless_uart/wireless_uart_service.c:58:13:Wus_Start	0	static
+../bluetooth/profiles/wireless_uart/wireless_uart_service.c:70:13:Wus_Subscribe	0	static
+../bluetooth/profiles/wireless_uart/wireless_uart_service.c:80:13:Wus_Unsubscribe	0	static
+../bluetooth/profiles/wireless_uart/wireless_uart_service.c:65:13:Wus_Stop	8	static

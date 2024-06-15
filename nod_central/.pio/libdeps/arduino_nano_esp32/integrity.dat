@@ -1,0 +1,6 @@
+h2zero/NimBLE-Arduino@^1.4.1
+paulstoffregen/Encoder@^1.4.4
+bblanchon/ArduinoJson@^6.21.4
+bodmer/TFT_eWidget@^0.0.6
+bodmer/TFT_eSPI@^2.5.43
+ottowinter/ESPAsyncWebServer-esphome@^3.1.0

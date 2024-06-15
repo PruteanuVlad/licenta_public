@@ -1,0 +1,2 @@
+../source/common/ble_host_tasks.c:110:13:Host_Task	8	static
+../source/common/ble_host_tasks.c:63:13:Ble_HostTaskInit	8	static

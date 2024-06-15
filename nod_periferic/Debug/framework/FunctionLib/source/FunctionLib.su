@@ -1,0 +1,13 @@
+../framework/FunctionLib/source/FunctionLib.c:74:6:FLib_MemCpy	8	static
+../framework/FunctionLib/source/FunctionLib.c:113:6:FLib_MemCpyAligned32bit	8	static
+../framework/FunctionLib/source/FunctionLib.c:208:6:FLib_MemCpyDir	8	static
+../framework/FunctionLib/source/FunctionLib.c:239:6:FLib_MemCpyReverseOrder	0	static
+../framework/FunctionLib/source/FunctionLib.c:276:8:FLib_MemCmp	8	static
+../framework/FunctionLib/source/FunctionLib.c:323:8:FLib_MemCmpToVal	0	static
+../framework/FunctionLib/source/FunctionLib.c:360:6:FLib_MemSet	8	static
+../framework/FunctionLib/source/FunctionLib.c:393:6:FLib_MemInPlaceCpy	0	static
+../framework/FunctionLib/source/FunctionLib.c:434:6:FLib_MemCopy16Unaligned	0	static
+../framework/FunctionLib/source/FunctionLib.c:454:6:FLib_MemCopy32Unaligned	0	static
+../framework/FunctionLib/source/FunctionLib.c:476:6:FLib_MemCopy64Unaligned	0	static
+../framework/FunctionLib/source/FunctionLib.c:506:6:FLib_AddOffsetToPointer	0	static
+../framework/FunctionLib/source/FunctionLib.c:521:10:FLib_StrLen	8	static

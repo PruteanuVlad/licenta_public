@@ -1,0 +1,13 @@
+../framework/DCDC/source/DCDC.c:323:8:DCDC_Init	0	static
+../framework/DCDC/source/DCDC.c:414:6:DCDC_EnterLowPowerCb	0	static
+../framework/DCDC/source/DCDC.c:427:6:DCDC_ExitLowPowerCb	0	static
+../framework/DCDC/source/DCDC.c:437:6:DCDC_ExitLowPowerPostCb	0	static
+../framework/DCDC/source/DCDC.c:450:8:DCDC_SetOutputVoltageTargets	0	static
+../framework/DCDC/source/DCDC.c:497:10:DCDC_McuVOutputTargetTomV	0	static
+../framework/DCDC/source/DCDC.c:507:10:DCDC_1P8OutputTargetTomV	0	static
+../framework/DCDC/source/DCDC.c:529:8:DCDC_PrepareForPulsedMode	0	static
+../framework/DCDC/source/DCDC.c:557:8:DCDC_PrepareForContinuousMode	0	static
+../framework/DCDC/source/DCDC.c:582:8:DCDC_SetUpperLimitDutyCycle	0	static
+../framework/DCDC/source/DCDC.c:611:8:DCDC_GetPowerSwitchStatus	0	static
+../framework/DCDC/source/DCDC.c:636:6:DCDC_ShutDown	0	static
+../framework/DCDC/source/DCDC.c:666:8:DCDC_InstallPSwitchCallback	0	static

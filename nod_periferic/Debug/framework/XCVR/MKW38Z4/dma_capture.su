@@ -1,0 +1,12 @@
+../framework/XCVR/MKW38Z4/dma_capture.c:29:6:DSB_IRQHandler	8	static
+../framework/XCVR/MKW38Z4/dma_capture.c:61:13:dma_refresh	0	static
+../framework/XCVR/MKW38Z4/dma_capture.c:100:13:dma_init	16	static
+../framework/XCVR/MKW38Z4/dma_capture.c:187:13:dma_poll_capture_status	0	static
+../framework/XCVR/MKW38Z4/dma_capture.c:202:13:dma_wait_for_done_bits	0	static
+../framework/XCVR/MKW38Z4/dma_capture.c:222:6:dma_set_irq_control	0	static
+../framework/XCVR/MKW38Z4/dma_capture.c:238:6:dma_abort	0	static
+../framework/XCVR/MKW38Z4/dma_capture.c:244:6:dma_release	0	static
+../framework/XCVR/MKW38Z4/dma_capture.c:170:13:dma_wait_for_complete	8	static
+../framework/XCVR/MKW38Z4/dma_capture.c:267:13:dma_start_capture	20	static
+../framework/XCVR/MKW38Z4/dma_capture.c:376:6:iq_to_phase_float	32	static
+../framework/XCVR/MKW38Z4/dma_capture.c:401:6:iq_to_phase_fixedpt	24	static

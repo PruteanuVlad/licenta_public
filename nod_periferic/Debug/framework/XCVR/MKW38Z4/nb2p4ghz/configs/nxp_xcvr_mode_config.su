@@ -1,0 +1,3 @@
+../framework/XCVR/MKW38Z4/nb2p4ghz/configs/nxp_xcvr_mode_config.c:436:21:configure_A0_B0_Radio_deltas	8	static
+../framework/XCVR/MKW38Z4/nb2p4ghz/configs/nxp_xcvr_mode_config.c:40:14:XCVR_RadioGenRegSetup	48	static
+../framework/XCVR/MKW38Z4/nb2p4ghz/configs/nxp_xcvr_mode_config.c:378:14:XCVR_RadioGenRBMESetup	0	static

@@ -1,0 +1,7 @@
+../framework/RNG/source/RNG.c:428:13:TRNG_GoToSleep	0	static
+../framework/RNG/source/RNG.c:448:13:TRNG_ISR	8	static
+../framework/RNG/source/RNG.c:108:9:RNG_Init	104	static
+../framework/RNG/source/RNG.c:241:9:RNG_HwGetRandomNo	8	static
+../framework/RNG/source/RNG.c:298:6:RNG_GetRandomNo	16	static
+../framework/RNG/source/RNG.c:319:6:RNG_SetPseudoRandomNoSeed	40	static
+../framework/RNG/source/RNG.c:356:9:RNG_GetPseudoRandomNo	56	static

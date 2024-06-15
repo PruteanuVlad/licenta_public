@@ -1,0 +1,3 @@
+../drivers/fsl_power.c:103:28:POWER_PeripheralEnterLowpowerHook	0	static
+../drivers/fsl_power.c:114:28:POWER_PeripheralExitLowpowerHook	0	static
+../drivers/fsl_power.c:121:6:POWER_EnterPowerMode	16	static

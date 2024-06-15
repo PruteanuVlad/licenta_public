@@ -1,0 +1,2 @@
+D:\Licenta\licenta\KW38\licenta_wireless_uart_freertos\CMSIS/core_cm0plus.h:923:22:__NVIC_SystemReset	0	static
+../framework/Reset/source/Reset.c:39:6:ResetMCU	8	static

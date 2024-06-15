@@ -1,0 +1,5 @@
+../framework/XCVR/MKW38Z4/mathfp.c:182:16:calculate_octant_1_8	8	static
+../framework/XCVR/MKW38Z4/mathfp.c:199:16:calculate_octant_2_3	8	static
+../framework/XCVR/MKW38Z4/mathfp.c:216:16:calculate_octant_4_5	8	static
+../framework/XCVR/MKW38Z4/mathfp.c:236:16:calculate_octant_6_7	8	static
+../framework/XCVR/MKW38Z4/mathfp.c:123:9:atan2fp	24	static

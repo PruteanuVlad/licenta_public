@@ -1,0 +1,5 @@
+../bluetooth/controller/task/ble_controller_task.c:166:18:Controller_InterruptHandlerWrapper	8	static
+../bluetooth/controller/task/ble_controller_task.c:171:13:ControllerTask	8	static
+../bluetooth/controller/task/ble_controller_task.c:177:13:ControllerSetBD_ADDR	72	static
+../bluetooth/controller/task/ble_controller_task.c:244:13:Controller_TaskInit	8	static
+../bluetooth/controller/task/ble_controller_task.c:373:6:Controller_ParamInit	8	static

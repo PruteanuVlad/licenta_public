@@ -1,0 +1,8 @@
+../source/common/ble_service_discovery.c:420:13:BleServDisc_NewService	16	static
+../source/common/ble_service_discovery.c:369:13:BleServDisc_Reset	8	static
+../source/common/ble_service_discovery.c:86:6:BleServDisc_RegisterCallback	0	static
+../source/common/ble_service_discovery.c:99:13:BleServDisc_Start	24	static
+../source/common/ble_service_discovery.c:147:13:BleServDisc_FindService	40	static
+../source/common/ble_service_discovery.c:194:6:BleServDisc_Stop	8	static
+../source/common/ble_service_discovery.c:400:13:BleServDisc_Finished	24	static
+../source/common/ble_service_discovery.c:215:6:BleServDisc_SignalGattClientEvent	24	static

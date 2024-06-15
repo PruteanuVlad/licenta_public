@@ -1,0 +1,2 @@
+../source/common/gatt_db/gatt_database.c:90:13:GattDb_Init	8	static
+../source/common/gatt_db/gatt_database.c:120:10:GattDb_GetIndexOfHandle	0	static

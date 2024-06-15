@@ -1,0 +1,12 @@
+../framework/Keyboard/source/Keyboard.c:347:13:KbGpioInit	8	static
+../framework/Keyboard/source/Keyboard.c:859:15:Switch_CheckIRQ	8	static
+../framework/Keyboard/source/Keyboard.c:1103:6:Switch_Press_ISR	16	static
+../framework/Keyboard/source/Keyboard.c:467:21:KBD_KeySwitchPortGet	16	static
+../framework/Keyboard/source/Keyboard.c:524:15:KBD_KeyCheck	16	static
+../framework/Keyboard/source/Keyboard.c:605:13:KeyScan	8	static
+../framework/Keyboard/source/Keyboard.c:428:6:KBD_Deinit	8	static
+../framework/Keyboard/source/Keyboard.c:895:6:KBD_Init	16	static
+../framework/Keyboard/source/Keyboard.c:984:8:KBD_IsWakeUpSource	8	static
+../framework/Keyboard/source/Keyboard.c:1010:6:KBD_PrepareEnterLowPower	0	static
+../framework/Keyboard/source/Keyboard.c:1033:6:KBD_PrepareExitLowPower	8	static
+../framework/Keyboard/source/Keyboard.c:1084:6:KBD_SwitchPressedOnWakeUp	8	static

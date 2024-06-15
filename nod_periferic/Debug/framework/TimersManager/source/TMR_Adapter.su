@@ -1,0 +1,13 @@
+D:\Licenta\licenta\KW38\licenta_wireless_uart_freertos\CMSIS/core_cm0plus.h:840:22:__NVIC_SetPriority	16	static
+../framework/TimersManager/source/TMR_Adapter.c:116:6:StackTimer_Init	16	static
+../framework/TimersManager/source/TMR_Adapter.c:175:6:StackTimer_Enable	0	static
+../framework/TimersManager/source/TMR_Adapter.c:189:6:StackTimer_Disable	0	static
+../framework/TimersManager/source/TMR_Adapter.c:203:11:StackTimer_GetIrqId	0	static
+../framework/TimersManager/source/TMR_Adapter.c:219:10:StackTimer_GetInputFrequency	8	static
+../framework/TimersManager/source/TMR_Adapter.c:268:10:StackTimer_GetCounterValue	0	static
+../framework/TimersManager/source/TMR_Adapter.c:284:6:StackTimer_SetOffsetTicks	8	static
+../framework/TimersManager/source/TMR_Adapter.c:299:6:StackTimer_ClearIntFlag	0	static
+../framework/TimersManager/source/TMR_Adapter.c:320:6:PWM_Init	24	static
+../framework/TimersManager/source/TMR_Adapter.c:345:6:PWM_SetChnCountVal	8	static
+../framework/TimersManager/source/TMR_Adapter.c:362:17:PWM_GetChnCountVal	0	static
+../framework/TimersManager/source/TMR_Adapter.c:380:6:PWM_StartEdgeAlignedLowTrue	32	static

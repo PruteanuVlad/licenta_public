@@ -1,0 +1,12 @@
+../board/pin_mux.c:79:6:BOARD_InitLPUART	0	static
+../board/pin_mux.c:117:6:BOARD_InitLEDs	0	static
+../board/pin_mux.c:140:6:BOARD_InitButtons	24	static
+../board/pin_mux.c:200:6:PTC3_InputInit	16	static
+../board/pin_mux.c:244:6:PTB2_ADCInit	0	static
+../board/pin_mux.c:279:6:PTB3_ADCInit	0	static
+../board/pin_mux.c:306:6:Door_Input	16	static
+../board/pin_mux.c:350:6:PTA16_Init	16	static
+../board/pin_mux.c:392:6:PTC1_Init	16	static
+../board/pin_mux.c:425:6:PTA19_Init	16	static
+../board/pin_mux.c:458:6:PTC16_Init	16	static
+../board/pin_mux.c:46:6:BOARD_InitBootPins	8	static

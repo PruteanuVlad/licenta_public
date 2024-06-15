@@ -1,0 +1,2 @@
+../source/common/ble_init.c:291:21:Ble_RadioInit	8	static
+../source/common/ble_init.c:93:13:Ble_Initialize	8	static

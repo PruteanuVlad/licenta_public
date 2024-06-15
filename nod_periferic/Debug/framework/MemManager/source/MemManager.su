@@ -1,0 +1,12 @@
+../framework/MemManager/source/MemManager.c:357:20:MEM_FreeElmt	8	static
+../framework/MemManager/source/MemManager.c:463:13:MEM_Init	24	static
+../framework/MemManager/source/MemManager.c:564:10:MEM_GetAvailableBlocks	16	static
+../framework/MemManager/source/MemManager.c:620:7:MEM_BufferAllocWithId	24	static
+../framework/MemManager/source/MemManager.c:603:7:MEM_BufferAllocate	8	static
+../framework/MemManager/source/MemManager.c:879:13:MEM_BufferFree	16	static
+../framework/MemManager/source/MemManager.c:997:13:MEM_BufferFreeAllWithId	0	static
+../framework/MemManager/source/MemManager.c:1101:10:MEM_BufferGetSize	0	static
+../framework/MemManager/source/MemManager.c:1115:7:MEM_BufferRealloc	24	static
+../framework/MemManager/source/MemManager.c:1792:7:MEM_CallocAlt	16	static
+../framework/MemManager/source/MemManager.c:1814:6:MEM_FreeAlt	8	static
+../framework/MemManager/source/MemManager.c:1822:10:MEM_GetHeapUpperLimit	0	static
